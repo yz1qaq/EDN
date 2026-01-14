@@ -67,7 +67,7 @@ You can either:
 
 ### Step 1: Configure paths and switches
 
-Edit `main_github.py` to set:
+Edit `main.py` to set:
 - `text_encoder_name`
 - dataset paths under `DATA/`
 - EDN switches:
@@ -77,12 +77,8 @@ Edit `main_github.py` to set:
 ### Step 2: Run training
 
 ```bash
-python main_github.py
+python main.py
 
 
 
-Citation
-
-If you use this code in your research, please cite our paper:
-xxxxxxxx
 
