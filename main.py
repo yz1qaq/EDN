@@ -5,8 +5,8 @@ import torch
 from torch.utils.data import DataLoader
 from transformers import AutoTokenizer
 
-from dataset_github import CustomDataset, print_dataset_info
-from model_github import EchoDynamicsNet
+from dataset import CustomDataset, print_dataset_info
+from model import EchoDynamicsNet
 from train_eval import train, test_model, load_checkpoint, plot_history
 
 
@@ -97,3 +97,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
