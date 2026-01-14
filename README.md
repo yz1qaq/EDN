@@ -78,7 +78,3 @@ Edit `main.py` to set:
 
 ```bash
 python main.py
-
-
-
-
