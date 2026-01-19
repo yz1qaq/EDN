@@ -6,6 +6,11 @@ EDN aims to jointly model:
 - **Local emotion fluctuation patterns** via a **Fluctuation-Aware Convolution (FAC)** branch guided by multi-granularity fluctuation representations.
 
 ---
+## Framework Overview
+
+<img src="01EDN.PDF" width="700">
+
+The overall architecture of the proposed EDN model.
 
 
 
