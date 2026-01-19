@@ -8,8 +8,6 @@ EDN aims to jointly model:
 ---
 
 
-[01EDN.pdf](https://github.com/user-attachments/files/24707679/01EDN.pdf)
-
 
 ## Requirements
 
