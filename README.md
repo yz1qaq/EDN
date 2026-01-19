@@ -1,4 +1,4 @@
-[01EDN.pdf](https://github.com/user-attachments/files/24707664/01EDN.pdf)# EchoDynamicsNet (EDN)
+# EchoDynamicsNet (EDN)
 This repository provides a PyTorch implementation of **EchoDynamicsNet (EDN)** for **fine-grained Chinese simile sentiment classification**.
 
 EDN aims to jointly model:
@@ -6,6 +6,10 @@ EDN aims to jointly model:
 - **Local emotion fluctuation patterns** via a **Fluctuation-Aware Convolution (FAC)** branch guided by multi-granularity fluctuation representations.
 
 ---
+
+
+[01EDN.pdf](https://github.com/user-attachments/files/24707679/01EDN.pdf)
+
 
 ## Requirements
 
