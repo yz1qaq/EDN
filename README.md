@@ -5,13 +5,6 @@ EDN aims to jointly model:
 - **Global semantic consistency** via an **Echo Enhancement Network (EEN)**, and  
 - **Local emotion fluctuation patterns** via a **Fluctuation-Aware Convolution (FAC)** branch guided by multi-granularity fluctuation representations.
 
----
-## Framework Overview
-
-<img src="01EDN.pdf" width="700">
-
-The overall architecture of the proposed EDN model.
-
 
 
 ## Requirements
