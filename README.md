@@ -8,7 +8,7 @@ EDN aims to jointly model:
 ---
 ## Framework Overview
 
-<img src="01EDN.PDF" width="700">
+<img src="01EDN.pdf" width="700">
 
 The overall architecture of the proposed EDN model.
 
