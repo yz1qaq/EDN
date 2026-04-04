@@ -72,8 +72,3 @@ Edit `main.py` to set:
 - EDN switches:
   - `use_een`: enable/disable EEN
   - `use_fac`: enable/disable FAC
-
-### Step 2: Run training
-
-```bash
-python main.py
