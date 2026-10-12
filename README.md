@@ -72,3 +72,15 @@ Edit `main.py` to set:
 - EDN switches:
   - `use_een`: enable/disable EEN
   - `use_fac`: enable/disable FAC
+ 
+@article{YUAN2026116401,
+title = {EchoDynamicsNet: A Fluctuation-Aware Echo-Enhanced Network for Chinese simile sentiment classification},
+journal = {Engineering Applications of Artificial Intelligence},
+volume = {184},
+pages = {116401},
+year = {2026},
+issn = {0952-1976},
+doi = {https://doi.org/10.1016/j.engappai.2026.116401},
+url = {https://www.sciencedirect.com/science/article/pii/S0952197626026850},
+author = {Zhaoyi Yuan and Jia Liu and Xipeng Yuan and Wei Huang and Pengfei Zhang and Tianrui Li},
+keywords = {Chinese simile sentiment classification, Sentiment analysis, Echo enhancement, Dynamic convolution, Deep learning}
